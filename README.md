@@ -2,7 +2,7 @@
 This project implements a password generator in Javascript. It allows for the user to specify a password length of at least 8 characters and no more than 128 characters. It also allows for the user to specify if they would like to have 1 or more of these character types in the password: lowercase, uppercase, numeric and special characters from https://www.owasp.org/index.php/Password_special_characters. Once the user has chosen their password criteria, the generated password is shown on the web page.
 
 ## Site Picture
-![Site](password_generator.png)
+![Site](password_generator.gif)
 
 ## Getting Started
 
