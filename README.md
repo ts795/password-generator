@@ -4,6 +4,7 @@ This project implements a password generator in Javascript. It allows for the us
 ## Site Picture
 ![Site](password_generator.gif)
 ![Site](password_generator2.gif)
+![Site](password_generator3.gif)
 
 ## Getting Started
 
